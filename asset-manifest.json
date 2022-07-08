@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reformatika-2021/static/css/main.be65d871.css",
-    "main.js": "/reformatika-2021/static/js/main.1b661bb0.js",
+    "main.css": "/reformatika-2021/static/css/main.7ee167a2.css",
+    "main.js": "/reformatika-2021/static/js/main.7fcc8542.js",
     "static/js/787.c78e2672.chunk.js": "/reformatika-2021/static/js/787.c78e2672.chunk.js",
     "static/media/logo.svg": "/reformatika-2021/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/reformatika-2021/index.html",
-    "main.be65d871.css.map": "/reformatika-2021/static/css/main.be65d871.css.map",
-    "main.1b661bb0.js.map": "/reformatika-2021/static/js/main.1b661bb0.js.map",
+    "main.7ee167a2.css.map": "/reformatika-2021/static/css/main.7ee167a2.css.map",
+    "main.7fcc8542.js.map": "/reformatika-2021/static/js/main.7fcc8542.js.map",
     "787.c78e2672.chunk.js.map": "/reformatika-2021/static/js/787.c78e2672.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be65d871.css",
-    "static/js/main.1b661bb0.js"
+    "static/css/main.7ee167a2.css",
+    "static/js/main.7fcc8542.js"
   ]
 }
